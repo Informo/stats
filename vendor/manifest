@@ -1,0 +1,74 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/matrix-org/gomatrix",
+			"repository": "https://github.com/matrix-org/gomatrix",
+			"revision": "a7fc80c8060c2544fe5d4dae465b584f8e9b4e27",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/matrix-org/gomatrixserverlib",
+			"repository": "https://github.com/matrix-org/gomatrixserverlib",
+			"revision": "b7601d92f2765f16c9a7539806a21291c9bece24",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/matrix-org/util",
+			"repository": "https://github.com/matrix-org/util",
+			"revision": "2e2df66af2f5dcf30843b5793134a0f0ce9338c6",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/pkg/errors",
+			"repository": "https://github.com/pkg/errors",
+			"revision": "f15c970de5b76fac0b59abb32d62c17cc7bed265",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/sirupsen/logrus",
+			"repository": "https://github.com/sirupsen/logrus",
+			"revision": "95cd2b9c79aa5e72ab0bc69b7ccc2be15bf850f6",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/tidwall/gjson",
+			"repository": "https://github.com/tidwall/gjson",
+			"revision": "182ad7605048a24cd37115b7157b8a4436d9ea17",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/tidwall/match",
+			"repository": "https://github.com/tidwall/match",
+			"revision": "1731857f09b1f38450e2c12409748407822dc6be",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/tidwall/sjson",
+			"repository": "https://github.com/tidwall/sjson",
+			"revision": "6a22caf2fd45d5e2119bfc3717e984f15a7eb7ee",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/crypto/ed25519",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"branch": "master",
+			"path": "/ed25519"
+		},
+		{
+			"importpath": "golang.org/x/crypto/ssh/terminal",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"branch": "master",
+			"path": "/ssh/terminal"
+		},
+		{
+			"importpath": "golang.org/x/sys/unix",
+			"repository": "https://go.googlesource.com/sys",
+			"revision": "8b4580aae2a0dd0c231a45d3ccb8434ff533b840",
+			"branch": "master",
+			"path": "/unix"
+		}
+	]
+}
